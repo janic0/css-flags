@@ -10,3 +10,6 @@
 
   Example: `<div class="flag-us"></div>`
 
+## Picking Flags
+
+Open `index.html` to help to choose a flag.
