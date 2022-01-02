@@ -12,4 +12,4 @@
 
 ## Picking Flags
 
-Open `index.html` to help to choose a flag.
+Open `index.html` to choose a flag.
